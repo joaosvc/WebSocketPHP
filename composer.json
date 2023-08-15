@@ -1,0 +1,11 @@
+{
+    "name": "joaos/web-socket",
+    "autoload": {
+        "psr-4": {
+            "WebSocket\\": "src/"
+        }
+    },
+    "require": {
+      "ext-sockets": "*"
+    }
+}
